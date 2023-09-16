@@ -1,4 +1,4 @@
-91porn.com#$#override-property-read player.preroll noopFunc
+91porn.com#$#override-property-read preroll noopFunc
 91porn.com#?#hide-if-matches-xpath './/a[@href][@target="_blank"]/
 ||jads.co^
 91porn.com##.ad_img
