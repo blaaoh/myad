@@ -1,1 +1,2 @@
-||poweredby.jads.co/js/jads.js^
+||poweredby.jads.co/js/jads.js
+
