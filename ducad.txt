@@ -1,2 +1,1 @@
-||poweredby.jads.co/js/jads.js
-
+https://poweredby.jads.co/js/jads.js
