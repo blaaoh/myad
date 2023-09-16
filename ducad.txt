@@ -1,4 +1,4 @@
 ||jads.co^
 91porn.com#%#//scriptlet("set-constant", "player.preroll", "noopFunc")
 ##.ad_img
-https://poweredby.jads.co/js/jads.js
+||poweredby.jads.co/js/jads.js
