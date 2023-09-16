@@ -1,3 +1,21 @@
+Adblock Plus 2.0]
+! Version: 202309160742
+! Title: EasyList
+! Last modified: 16 Sep 2023 07:42 UTC
+! Expires: 4 days (update frequency)
+! *** easylist:template_header.txt ***
+! 
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+! 
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
 ||jads.co^
 ##.ad_img
 ||poweredby.jads.co/js/jads.js
