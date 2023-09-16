@@ -1,1 +1,3 @@
 https://poweredby.jads.co/js/jads.js
+##.vjs-sharing-overlay
+##.preroll-blocker
