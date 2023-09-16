@@ -1,4 +1,4 @@
-Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Version: 202309160742
 ! Title: EasyList
 ! Last modified: 16 Sep 2023 07:42 UTC
