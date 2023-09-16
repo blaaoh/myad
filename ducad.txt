@@ -1,4 +1,2 @@
 91porn.com#$#override-property-read preroll noopFunc
-||jads.co^
-##.ad_img
 91porn.com#?#hide-if-matches-xpath './/a[@href][@target="_blank"]/
