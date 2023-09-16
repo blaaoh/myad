@@ -1,4 +1,4 @@
-91porn.com#%#//scriptlet("set-constant", "player.preroll", "noopFunc")
+91porn.com#$#override-property-read player.preroll noopFunc
 ||jads.co^
 ##.ad_img
 91porn.com#?#hide-if-matches-xpath './/a[@href][@target="_blank"]/
