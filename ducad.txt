@@ -1,5 +1,4 @@
 ||jads.co^
-||killcovid2021.com^*.mp4
-91porn.com#%#//scriptlet("set-constant", "player.preroll", "noopFunc")
+91porn.com#$#override-property-read player.preroll noopFunc
 91porn.com#?##videodetails > div:has(> a[href][target="_blank"])
 ##.ad_img
